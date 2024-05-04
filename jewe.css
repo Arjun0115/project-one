@@ -1,0 +1,369 @@
+.nav{
+  height: 350px;
+  width: auto;
+  position: absolute;
+}
+.bgimg{
+    height: 350px;
+    width: 1440px;
+}
+.inf{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    position: relative;
+    bottom: 350px;
+    left: 5px;
+}
+.imgnav{
+    height: 50px;
+    width: 50px;
+    border-radius: 15px;
+}
+.ac{
+    position: relative;
+    bottom: 350px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+.cont{
+    display: flex;
+    position: absolute;
+    gap: 35px;
+}
+.box{
+    top: 390px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+    
+}
+.ring{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.icon{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.pric{
+    position: relative;
+    left: 10px;
+}
+.pa{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.box2{
+    top: 390px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.ring2{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.icon2{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.pric2{
+    position: relative;
+    left: 10px;
+}
+.pa2{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.box3{
+    top: 390px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.ring3{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.icon3{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.pric3{
+    position: relative;
+    left: 10px;
+}
+.pa3{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.box4{
+    top: 390px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.ring4{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.icon4{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.pric4{
+    position: relative;
+    left: 10px;
+}
+.pa4{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.box5{
+    top: 390px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.ring5{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.icon5{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.pric5{
+    position: relative;
+    left: 10px;
+}
+.pa5{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+/* down bellow code for neckless */
+.cont2{
+    display: flex;
+    position: absolute;
+    gap: 35px;
+    margin-top: 15px;
+}
+.nbox{
+    top: 700px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.neck{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.nicon{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.npric{
+    position: relative;
+    left: 10px;
+}
+.npa{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.nbox2{
+    top: 700px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.neck2{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.nicon2{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.npric2{
+    position: relative;
+    left: 10px;
+}
+.npa2{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.nbox3{
+    top: 700px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.neck3{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.nicon3{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.npric3{
+    position: relative;
+    left: 10px;
+}
+.npa3{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.nbox4{
+    top: 700px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.neck4{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.nicon4{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.npric4{
+    position: relative;
+    left: 10px;
+}
+.npa4{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.nbox5{
+    top: 700px;
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgba(121, 106, 106, 0.637);
+}
+.neck5{
+    position: relative;
+    height: 200px;
+    width: 90%;
+    border-radius: 5px;
+    padding: 11px;
+}
+.nicon5{
+    position: relative;
+    bottom: 205px;
+    left: 210px;
+}
+.npric5{
+    position: relative;
+    left: 10px;
+}
+.npa5{
+    position: relative;
+    left: 10px; 
+    padding-top: 5px;
+}
+.foot{
+    position: absolute;
+}
+.footcont{
+    position: relative;
+    height: 200px;
+    width: 1440px;
+    background-color: black;
+    top: 1100px;
+    display: flex;
+    gap: 20px;
+}
+.ficon{
+  position: relative;
+  color: white;
+  left: 600px;
+  top: 25px;
+}
+.ficon2{
+  position: relative;
+  color: white;
+  left: 600px;
+  top: 25px;
+}
+.ficon3{
+  position: relative;
+  color: white;
+  left: 600px;
+  top: 25px;
+}
+.ficon4{
+  position: relative;
+  color: white;
+  left: 600px;
+  top: 25px;
+}
+.fcopy{
+  position: relative;
+  color: white;
+  left: 290px;
+  top: 50px;
+  color: white;
+}
